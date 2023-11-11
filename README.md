@@ -1,14 +1,14 @@
 # Samsen Minimart System & Services 🍫🧋🛒
 The project that solve the pain point of crowded people in Samsen minimart.
 
-Pain Point
+Pain Points
 -------
 
 * People who study at other building and far from minimart will spend so much time to comehere.
 * Sometimes the minimart is very crowded.
 * Sometimes it's waste you time. If you know that the snacks you want are out of stock.
 
-Solution
+Solutions
 -------
 
 * Find the application or services that can delivery food. (Make LINE OA)
