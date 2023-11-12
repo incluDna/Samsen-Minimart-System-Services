@@ -1,5 +1,9 @@
 # Samsen Minimart System & Services 🍫🧋🛒
-The project that solve the pain point of crowded people in Samsen minimart.
+The project that solve the pain point of shopping in Samsen minimart.
+
+
+![Samsen delivery system ](https://github.com/incluDna/Samsen-Minimart-System-Services/assets/135194778/2aa673df-0565-46b9-89c3-ef41b88a6d46)
+
 
 Pain Points
 -------
